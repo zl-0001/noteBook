@@ -1,0 +1,16 @@
+html,body,div,p,span {
+	margin: 0;
+	padding: 0;
+}
+
+.mg-10 {
+	margin: 10px;
+}
+.mgtb-15 {
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+.mglr-20 {
+	margin-left: 20px;
+	margin-right: 20px;
+}
